@@ -1,10 +1,11 @@
 # Nike landing page
 
 * Used react and tailwind css to create this landing page mainly focus on practicing tailwind with responsive websites.
+* Got the design from "JavaScript Mastery" youtube channel
 
 * Used technologies:
-1. React with Vite
-2. Tailwind css
+ 1. React with Vite
+ 2. Tailwind css
 
 * Learned practices:
 1. Learned how to use tailwind in various responsive sites
